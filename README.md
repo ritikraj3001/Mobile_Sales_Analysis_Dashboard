@@ -183,7 +183,7 @@ Example:
 
 ## 📊 Dashboard Preview
 
-![Mobile Sales Dashboard](Mobile%20Sales%20Analysis.png)
+![Mobile Sales Dashboard](https://github.com/ritikraj3001/Mobile_Sales_Analysis_Dashboard/blob/main/Mobile%20Sales%20Analysis.png)
 
 ---
 
